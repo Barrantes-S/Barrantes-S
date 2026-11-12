@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Barrantes S. 👋
 
-<!--
-**Barrantes-S/Barrantes-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical high school student from **Costa Rica** passionate about programming, logic, and software engineering. Currently building my foundations in code and preparing for my future career in Computer Science.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on
+- 🐍 Learning **Python** fundamentals (control structures, algorithms, and logic).
+- 📱 Developing and testing my first scripts and mini-games directly from my mobile environment.
+- 🎯 Aspiring to pursue a degree in **Software Engineering** at the University of Costa Rica (UCR).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python
+- **Tools:** GitHub, Mobile IDEs
+
+### 📌 Featured Repositories
+- `python-minijuegos` *(Coming soon)* — A collection of logic games and interactive scripts built from scratch.
+
+---
+📫 *Feel free to explore my repositories and follow my coding journey!*
+
